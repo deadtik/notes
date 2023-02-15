@@ -94,7 +94,7 @@ body {
 .notes {
   // border: 2px solid blue;
 
-  background-color: var(--note2);
+  background-color: var(--note2,--note1,--note3,--note4,--note5);
   color: var(--black);
 
   border-radius: 20px;
